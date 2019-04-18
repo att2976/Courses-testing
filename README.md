@@ -20,3 +20,7 @@ Austin Tyler - Blockchain hw4
   Gets new promise and calls setInstructor() function with given set of params. Then calls getInstructor() method and checks that the correct values were passed.
 1. Test 4: countInstructors()
   Gets new promise and calls the setInstructor() function 3 times with different data. Then calls countInstructors() function and verifies that the correct number of results were returned.
+
+## Resources used:
+1. https://coursetro.com/posts/code/102/Solidity-Mappings-&-Structs-Tutorial
+1. https://medium.com/etherereum-salon/eth-testing-472c2f73b4c3
