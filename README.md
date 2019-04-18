@@ -10,7 +10,7 @@ Austin Tyler - Blockchain hw4
 1. in the previous tab: `truffle test test/Courses.js`
 1. All tests should pass
 
-##Answers:
+## Answers:
 
 1. Test 1: setInstructor()
   Deploys the contract promise and calls funciton with a given set of params. Then, calls the mapping of instructors to get that instructor and verify that the correct args were passed.
